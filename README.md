@@ -1,8 +1,29 @@
+Abaixo estar Lib da nossa Ul
+
+local Lib loadstring(game:Httpõet("https://github.com/7yhx/kwargs_Ui_Library.git #1 Library/main/source.lua"))()
+
+local UI Lib:Create(
+
+Theme "Dark", or any other these
+
+Size UD1m2.лем (0, 555, 8, 400) default
+
+Search
+
+local Hain UT:Tab
+Name Inicio
+
+local Divider Main:Divider[
+Name "Inicio shit
+
+local QuitDivider Main: Divider(
+Name "Sair
+
 - 👋 Hi, I’m @leking.s2
-- 👉🏾 standoff2 hack
-- 👇🏾DC
-- 👉🏾https://discord.gg/AHzXT5vH
-- 
+- 👉 standoff2 hack
+- 👇DC
+- 👉https://discord.gg/AHzXT5vH
+ 
 <!----- Variáveis
 local ativado = false
 local corAmiga = {r = 255, g = 0, b = 0} -- Vermelho
